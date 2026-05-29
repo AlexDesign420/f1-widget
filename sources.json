@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "id": "orf-sport-plus",
+      "name": "ORF Sport Plus",
+      "country": "AT",
+      "language": "de",
+      "type": "static",
+      "url": "https://orf-live.ors-shls.ors.at/sport_plus/SPORT_PLUS_HIGH.m3u8"
+    },
+    {
+      "id": "deutschlandfunk",
+      "name": "Deutschlandfunk",
+      "country": "DE",
+      "language": "de",
+      "type": "static",
+      "url": "https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3"
+    },
+    {
+      "id": "bbc-radio5",
+      "name": "BBC Radio 5 Live",
+      "country": "GB",
+      "language": "en",
+      "type": "static",
+      "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live"
+    },
+    {
+      "id": "talkSPORT",
+      "name": "talkSPORT",
+      "country": "GB",
+      "language": "en",
+      "type": "static",
+      "url": "https://edge-bauerall-01-gos2.sharp-stream.com/talksport.mp3"
+    },
+    {
+      "id": "sky-sports-radio",
+      "name": "Sky Sports Radio",
+      "country": "GB",
+      "language": "en",
+      "type": "static",
+      "url": "https://skysports.stream/listen"
+    }
+  ]
+}
