@@ -41,7 +41,7 @@ export const className = `
   .hide-btn:hover { color: #f87171; background: #1a1014; border-color: #5b2330; }
 
   .notch {
-    position: fixed; left: 0; top: 50%;
+    position: fixed; left: 0; top: 70%;
     transform: translateY(-50%) translateX(-110%);
     transition: transform .35s cubic-bezier(.4,0,.2,1), filter .15s ease;
     z-index: 6; pointer-events: none;
