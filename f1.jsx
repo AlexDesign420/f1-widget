@@ -477,6 +477,7 @@ export const render = ({ output }) => {
 
   const driverStandings = (standings && standings.drivers) || []
   const maxPoints = (driverStandings[0] && driverStandings[0].points) || 1
+  const lastWinner = null
 
   const onlineStreams = serverStreams.filter(s => s.online)
 
